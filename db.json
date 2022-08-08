@@ -388,7 +388,7 @@
         "imDbRating": "7.5",
         "imDbRatingVotes": "47849",
         "metacriticRating": null,
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt8426926",
@@ -1443,7 +1443,7 @@
         "imDbRating": "8.6",
         "imDbRatingVotes": "152276",
         "metacriticRating": "78",
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt1745960",
@@ -2500,7 +2500,7 @@
         "imDbRating": "8.3",
         "imDbRatingVotes": "108903",
         "metacriticRating": "81",
-        "ratings": null,
+        "ratings":"",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt6710474",
@@ -3683,7 +3683,7 @@
         "imDbRating": "9.2",
         "imDbRatingVotes": "1793409",
         "metacriticRating": "100",
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt0068646",
@@ -4564,7 +4564,7 @@
         "imDbRating": "9.5",
         "imDbRatingVotes": "7613",
         "metacriticRating": null,
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt12015102",
@@ -5954,7 +5954,7 @@
         "imDbRating": "8.7",
         "imDbRatingVotes": "1123363",
         "metacriticRating": "90",
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt0099685",
@@ -6797,7 +6797,7 @@
         "imDbRating": "9.3",
         "imDbRatingVotes": "2619830",
         "metacriticRating": "81",
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt0111161",
@@ -7754,7 +7754,7 @@
         "imDbRating": "6.8",
         "imDbRatingVotes": "136780",
         "metacriticRating": "57",
-        "ratings": null,
+        "ratings": "",
         "wikipedia": null,
         "posters": {
           "imDbId": "tt10648342",
